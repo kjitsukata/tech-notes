@@ -2,5 +2,5 @@
 
 ## ToC
 
-[Installation and Setting](/installation-setting.md)
+[Installation and Setting](/000_GoogleCloud/000_GoogleCloudSDK/installation-setting.md)
 
