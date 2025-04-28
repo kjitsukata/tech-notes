@@ -8,10 +8,6 @@
 % brew install google-cloud-sdk
 ```
 
-### Homebrew以外のインストール(インストール公式ドキュメント)
-
-[Install the gcloud CLI](https://cloud.google.com/sdk/docs/install#installation_instructions)
-
 ### バージョン確認・アップデート・コンポーネントインストール
 
 ```
@@ -59,7 +55,7 @@ You must sign in to continue. Would you like to sign in (Y/n)?  Y
 % gcloud config configurations list
 
 ## 設定作成
-% gcloud config configurations create my-project --no-activate
+% gcloud config configurations create MY-PROJECT --no-activate
 
 ## 設定をアクティベート
 % gcloud config configurations activate MY-PROJECT
@@ -110,6 +106,7 @@ Once finished, enter the verification code provided in your browser: [ブラウ�
 
 ## Reference
 
+- [Install the gcloud CLI](https://cloud.google.com/sdk/docs/install#installation_instructions)
 - [Authentication methods at Google](https://cloud.google.com/docs/authentication)
 - [gcloud config list](https://cloud.google.com/sdk/gcloud/reference/config/list)
 - [gcloud config set](https://cloud.google.com/sdk/gcloud/reference/config/set)
