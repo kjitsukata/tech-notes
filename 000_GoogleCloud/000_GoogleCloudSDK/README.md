@@ -1,4 +1,4 @@
-# Google Cloud > Google Cloud SDK
+# Google Cloud::Google Cloud SDK
 
 ## ToC
 
